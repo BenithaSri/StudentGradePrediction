@@ -11,7 +11,7 @@ This includes understanding which features are most predictive, and how differen
 ## 🔍 Dataset
 - **Source:** [Kaggle - Student Performance Dataset](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset)  
 - **Records:** 5000 student data points  
-- **Key Features:**
+- **Features include:**
   - Academic: Midterm, Final, Assignments, Quizzes, Project scores  
   - Behavioral: Attendance, Study Hours, Stress, Sleep  
   - Demographic: Gender, Department, Income, Internet Access
@@ -41,7 +41,7 @@ Unsupervised clustering added valuable validation to the grade-label groupings, 
 
 ## 🔗 Project Files
 
-- [Raw Data Description](RAWDATA.md)  
+- [Raw Data Description](RAW_DATA.md)  
 - [Data Exploration and Cleaning](DATA.md)  
 - [Modeling and Analysis](ANALYSIS.md)  
 - [Conclusions and Future Work](CONCLUSIONS.md)
